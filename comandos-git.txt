@@ -1,0 +1,25 @@
+ANOTACOES - COMANDOS GIT
+
+1. git init
+Inicializa um repositorio Git.
+
+2. git clone
+Clona um repositorio existente.
+
+3. git status
+Verifica o estado dos arquivos.
+
+4. git add .
+Adiciona os arquivos para preparacao.
+
+5. git commit -m "mensagem"
+Registra as alteracoes realizadas.
+
+6. git push
+Envia as alteracoes para o GitHub.
+
+7. git pull
+Atualiza o repositorio local.
+
+8. git log
+Exibe o historico de commits.
