@@ -18,15 +18,22 @@ Comandos Git
 Comandos e Funçãos
 
 git init = Inicializa um repositório.
+
 git clone = Clona um repositório.
+
 git status = Verifica o estado dos arquivos.
+
 git add = Adiciona arquivos para preparação. 
+
 git commit = Registra alterações. 
+
 git push = Envia alterações ao GitHub. 
+
 git pull = Atualiza o repositório local.
+
 git log = Mostra o histórico de commits.
 
-Atividade prática
+Atividade prática - 
 Este repositório será utilizado para registrar os conhecimentos adquiridos durante o curso de Git e GitHub, por meio de anotações, exercícios e exemplos práticos.
 
 Identificação
